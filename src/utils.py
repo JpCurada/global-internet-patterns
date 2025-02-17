@@ -16,7 +16,7 @@ def apply_custom_style():
 def load_dashboard_data():
     """Load and prepare data for dashboard"""
     try:
-        return pd.read_csv("data\internet_gdp_data.csv", index_col=0)
+        return pd.read_csv("src/data/internet_gdp_data.csv", index_col=0)
     except Exception as e:
         st.error(f"Error loading data: {str(e)}")
         return pd.DataFrame()
