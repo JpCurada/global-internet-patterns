@@ -1,4 +1,4 @@
-,year,country_name,country_code,internet_usage,data_source,yoy_growth,growth_category,cagr_3yr
+,year,country_name,country_code,value,data_source,yoy_growth,growth_category,cagr_3yr
 0,2000,Afghanistan,AFG,0.0,Imputed,,,
 1,2001,Afghanistan,AFG,0.00472257,Original,100.0,High Growth,
 2,2002,Afghanistan,AFG,0.0045614,Original,-3.4127604249381105,Stable,
