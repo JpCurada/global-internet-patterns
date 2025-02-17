@@ -31,7 +31,7 @@ def create_sidebar_filters(df: pd.DataFrame):
         A two-decade journey through global internet adoption, revealing the stories of 
         progress, barriers, and persistent challenges (2000-2023).
         
-        *This project is an entry for the DataCamp Competition: Analyzing global internet patterns*
+        This project is an entry for the DataCamp Competition: [Analyzing global internet patterns](https://www.datacamp.com/datalab/w/517a04fb-a922-4754-b181-68724be62c47)
     """)
     
     # Filters Section
