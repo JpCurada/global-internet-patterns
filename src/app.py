@@ -15,7 +15,8 @@ import pandas as pd
 # Page configuration
 st.set_page_config(
     page_title='Internet Usage Dashboard',
-    layout='wide'
+    layout='wide',
+    page_icon=":material/public:"
 )
 
 # Apply custom styling
@@ -265,5 +266,3 @@ if not df.empty:
 
     else:
         st.info("No data matches the selected filters. Please adjust your selection.")
-
-        
