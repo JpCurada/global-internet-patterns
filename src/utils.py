@@ -80,7 +80,9 @@ def create_sidebar_filters(df: pd.DataFrame):
         of the Philippines, exploring the intersection of data and technology.
         
         [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/jpcurada/)
-        [![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/JpCurada)
+        [![GitHub](https://img.shields.io/badge/GitHub-JpCurada-black.svg)](https://github.com/JpCurada)
+        [![Repository](https://img.shields.io/badge/Repo-global--internet--patterns-green.svg)](https://github.com/JpCurada/global-internet-patterns)
+
     """)
     
     return {
